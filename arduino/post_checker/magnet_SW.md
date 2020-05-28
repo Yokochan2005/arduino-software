@@ -11,6 +11,6 @@ Arduino Uno R3を使用し、マグネットSWの他端を10kΩでプルアッ�
 
 - circuit
 
-  <img src="C:\Users\洋一郎\Documents\arduino-software\arduino\post_checker\circuit\magnet.jpg" style="zoom: 25%;" />
+  <img src="https://github.com/Yokochan2005/arduino-software/blob/f_LcdDisplay_0526/arduino/post_checker/circuit/magnet.jpg" style="zoom: 25%;" />
 
   
